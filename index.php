@@ -21,7 +21,7 @@
     </section>
 
     <div class="text-center">
-        <a href="#" class="btn btn-success btn-lg">Se inscreva</a>
+        <a href="form.php" class="btn btn-success btn-lg">Se inscreva</a>
     </div>
 
      <footer class="bg-dark text-white text-center py-3 mt-5">
